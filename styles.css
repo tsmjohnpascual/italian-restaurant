@@ -25,6 +25,11 @@ h2 {
     margin-bottom: 5%;
 }
 
+p {
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+
 .order-button {
     margin-left: 5%;
     margin-right: 5%;
@@ -42,3 +47,52 @@ h2 {
     color: white;
 }
 
+.offwhite-section {
+    background-color: #F8F9D7;
+}
+
+.white-section {
+    background-color: white;
+}
+
+.top-left-title > h1 {
+    font-size: 2rem;
+    text-align: left;
+    margin-left: 30px;
+}
+
+.navtext {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.navbar-nav > li {
+    padding-left:30px;
+    padding-right:30px;
+  }
+
+.veggies {
+    max-width: 50%;
+}
+
+.red-paragraph {
+    color: #A10035;
+    text-align: left;
+}
+
+.h1two {
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+#foods {
+    padding: 3% 7% 3%;
+}
+
+.food-carousel {
+    text-align: center;
+}
+
+.food-images {
+    max-width: 50%;
+}
